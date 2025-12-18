@@ -181,13 +181,13 @@ public class Main {
         for (int i = 0; i < Terrenos.TAM; i++) {
             for (int j = 0; j < Terrenos.TAM; j++) {
                 if (mapa[i][j] == Terrenos.TIERRA)
-                    System.out.print(Colores.TIERRA + mapa[i][j] + Colores.RESET + "\t");
+                    System.out.print(Colores.TIERRA + mapa[i][j] + Colores.RESET);
                 if (mapa[i][j] == Terrenos.MAR)
-                    System.out.print(Colores.MAR + mapa[i][j] + Colores.RESET + "\t");
+                    System.out.print(Colores.MAR + mapa[i][j] + Colores.RESET);
                 if (mapa[i][j] == Terrenos.JUGADOR)
-                    System.out.print(Colores.JUGADOR + mapa[i][j] + Colores.RESET + "\t");
+                    System.out.print(Colores.JUGADOR + mapa[i][j] + Colores.RESET);
                 if (mapa[i][j] == Terrenos.TESORO)
-                    System.out.print(Colores.TESORO + mapa[i][j] + Colores.RESET + "\t");
+                    System.out.print(Colores.TESORO + mapa[i][j] + Colores.RESET);
             }
             System.out.println();
         }
