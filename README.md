@@ -39,17 +39,7 @@ Este proyecto es un **juego de consola en Java** donde el jugador debe encontrar
 
 ## 🖼️ Ejemplo de mapa en consola
 
-| 🌊 | 🌊 | 🌊 | 🟫 | 🟫 | 🧑 | 🌊 | 🌊 |
-|---|---|---|---|---|---|---|---|
-| 🌊 | 🟫 | 🌊 | 🌊 | 🟫 | 🟫 | 🌊 | 🌊 |
-| 🌊 | 🟫 | 🌊 | 🌊 | 🌊 | 🟫 | 🟫 | 🟫 |
-| 🟫 | 🟫 | 🟫 | 🌊 | 🟫 | 🌊 | 🌊 | 🏆 |
-| 🌊 | 🌊 | 🟫 | 🌊 | 🟫 | 🌊 | 🌊 | 🌊 |
-
-> 🧑: Jugador  
-> 🏆: Tesoro  
-> 🌊: Agua  
-> 🟫: Tierra  
+<img width="251" height="269" alt="image" src="https://github.com/user-attachments/assets/3d89a7b4-910c-47a4-b1c6-9ce09ac15371" />
 
 ---
 
